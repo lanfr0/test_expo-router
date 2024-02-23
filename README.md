@@ -1,7 +1,7 @@
 ### Nested dynamic routes with Expo Router
 
-This is a test to learn and understand how handle multiple dynamic nested routes in Expo Router (v3). I didn't find any
-information on the official documentation of Expo Router.
+This is a test to learn and understand how to handle multiple nested dynamic routes in Expo Router (v3). I didn't find
+any information in the official Expo Router documentation.
 
 This the routes structure of the test.
 
